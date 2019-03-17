@@ -8,8 +8,8 @@ This directory contains our TF implementation of Transformer-XL. Note that our s
 
 ## Prerequisite
 
-- Python 2.7
-- Tensorflow [1.12.0](https://github.com/tensorflow/tensorflow/releases/tag/v1.12.0)
+- Python 3.6
+- Tensorflow [1.6.0](https://github.com/tensorflow/tensorflow/releases/tag/v1.12.0)
 
 
 
